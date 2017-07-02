@@ -3,6 +3,7 @@
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.printf("First commit!");
+        System.out.printf("First commit!\n");
+        System.err.println("Second commit! Like ERROR");
     }
 }
