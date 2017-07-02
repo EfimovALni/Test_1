@@ -14,7 +14,7 @@ public class Test {
 
     private static void age(int i) {
         for (int j = 0; j < i; j+=2) {
-            System.out.print("._-");
+            System.out.print("_|-");
         }
     }
 }
